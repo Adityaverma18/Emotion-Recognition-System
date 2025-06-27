@@ -11,18 +11,7 @@ This project implements a real-time facial emotion recognition system using a Co
 
 ## 📁 Project Structure
 
-project_folder/
-│
-├── haarcascade_frontalface_default.xml  # Already uploaded
-├── model.h5                             # Pretrained model
-├── emotion-classification-cnn-using-keras.py  # (for training)
-├── main.py                              # (for real-time detection)
-├── images/                              # Contains 'train/' and 'validation/' folders for training
-│   ├── train/
-│   └── validation/
-|──README.md
-|──License
-|──requirement.txt  # Required Python packages
+![Feature Importance](architect.png)
 
 
 ## 🚀 How to Run
